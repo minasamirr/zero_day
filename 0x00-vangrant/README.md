@@ -1,2 +1,4 @@
-ssh into your Ubuntu
-uname 
+type in Ubuntu
+uname
+to get
+Linux
